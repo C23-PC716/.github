@@ -1,4 +1,4 @@
-![DermaCare Icon](https://imgur.com/rusERek)
+![DermaCare Icon](https://imgur.com/a/vUDK0gM)
 
 ## Title of the Project 
 
