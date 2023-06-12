@@ -12,7 +12,7 @@ We hope that this project will help people to diagnose their skin diseases, fewe
 
 ## Our team
 |Name  | StudentID  | University |
-|--|--|--|--|
+|--|--|--|
 | A. Muzacky Naufal Ammar | A180DSX1711 | Universitas Ibrahimy |
 | Ribka Gabriela Siburian | M040DSY0331 | Institut Teknologi Sumatera |
 | Dimas Ilham Danesamarruf | M181DSX0379 | Universitas Indonesia |
