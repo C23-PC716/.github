@@ -1,5 +1,4 @@
-# DermaCare
-## Skin Disease Detection with Medicine Recommendation Application
+# DermaCare <br> Skin Disease Detection with Medicine Recommendation Application
 
 ![DermaCare Icon](https://github.com/C23-PC716/.github/assets/88326267/40a4f825-2e6e-41b8-8c00-d7eef9e1c719)
 
