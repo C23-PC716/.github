@@ -2,7 +2,7 @@
 
 ![DermaCare Icon](https://github.com/C23-PC716/.github/assets/88326267/40a4f825-2e6e-41b8-8c00-d7eef9e1c719)
 
-[App Download Link](https://drive.google.com/uc?export=download&id=1JF6AFss3azUgT9bn58wU7IQiedFBqsUD)
+#### [App Download Link](https://drive.google.com/uc?export=download&id=1JF6AFss3azUgT9bn58wU7IQiedFBqsUD)
 
 ## Product Description
 
