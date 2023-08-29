@@ -16,6 +16,6 @@ We hope that this project will help people to diagnose their skin diseases, fewe
 | A. Muzacky Naufal Ammar | A180DSX1711 | Universitas Ibrahimy |
 | Ribka Gabriela Siburian | M040DSY0331 | Institut Teknologi Sumatera |
 | Dimas Ilham Danesamarruf | M181DSX0379 | Universitas Indonesia |
-| Mahendra Priyo Wibisono | C305DSX2699 | Universitas Pembangunan Nasional Veteran Jawa Timur |
+| Mahendra Priyo Wibisono (Lead)| C305DSX2699 | Universitas Pembangunan Nasional Veteran Jawa Timur |
 | Fitrah Suryani Nasution | C201DKY4724 | Universitas Islam Negeri Sunan Kalijaga |
 | Djodi Martin | C275DSX4933 | Universitas Nasional |
